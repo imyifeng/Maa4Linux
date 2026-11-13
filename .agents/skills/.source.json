@@ -1,0 +1,7 @@
+{
+  "repository": "https://github.com/mattpocock/skills",
+  "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+  "installedAt": "2026-11-13",
+  "categories": ["productivity", "engineering"],
+  "layout": "flat, one directory per skill under .agents/skills"
+}
